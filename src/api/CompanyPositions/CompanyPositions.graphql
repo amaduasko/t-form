@@ -1,0 +1,9 @@
+
+query Relations {
+  applicantIndividualCompanyRelations {
+    data {
+      id
+      name
+    }
+  }
+}
